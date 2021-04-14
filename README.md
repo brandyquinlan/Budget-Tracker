@@ -48,7 +48,7 @@ THEN that will be shown on the page, and added to their transaction history when
 * [Link to demo - https://drive.google.com/file/d/1VfWek9wcYf37gmjt7cg7n5TuEMuuo7Qi/view?usp=sharing](https://drive.google.com/file/d/1VfWek9wcYf37gmjt7cg7n5TuEMuuo7Qi/view?usp=sharing)
 
 ## Screenshots
-![Screenshots](/public/budget-screenshots.png)
+![Screenshots](/public/img/budget-screenshots.png)
 
 
 ## Functionality

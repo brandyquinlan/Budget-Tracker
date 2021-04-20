@@ -43,6 +43,16 @@ THEN that will be shown on the page, and added to their transaction history when
 - Create add or substract funds
 - View your your balance
 
+### Install the PWA for Standalone Use
+
+#### On Your Desktop
+- Click the download/install icon in the searchbar of the browser.
+- Open the standalone app.
+
+#### On Your Mobile Device
+- Add to your Home Screen
+- Open the app.
+
 ## DEMO VIDEO
 * [Link to demo - https://drive.google.com/file/d/1VfWek9wcYf37gmjt7cg7n5TuEMuuo7Qi/view?usp=sharing](https://drive.google.com/file/d/1VfWek9wcYf37gmjt7cg7n5TuEMuuo7Qi/view?usp=sharing)
 

@@ -38,7 +38,6 @@ THEN that will be shown on the page, and added to their transaction history when
 ```
 
 ## Usage
-### To begin using devlr, sign up for an account.
 
 - Go to https://quinlan-budget-tracker.herokuapp.com/
 - Create add or substract funds

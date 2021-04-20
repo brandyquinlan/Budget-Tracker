@@ -17,7 +17,7 @@
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
 ## Repo and Heroku App Links
-* [Link to GitHub Repo - https://github.com/brandyquinlan/Fitness-Tracker](https://github.com/brandyquinlan/Budget-Tracker)
+* [Link to GitHub Repo - https://github.com/brandyquinlan/Budget-Tracker](https://github.com/brandyquinlan/Budget-Tracker)
 * [Link to Heroku App - https://quinlan-budget-tracker.herokuapp.com/](https://quinlan-budget-tracker.herokuapp.com/)
 
 ### User Story
